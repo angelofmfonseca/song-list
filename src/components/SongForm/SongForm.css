@@ -1,0 +1,20 @@
+form {
+  padding: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 6px 0;
+  box-shadow: 1px 1px 10px #aaa;
+  border: 0;
+}
+
+input[type="submit"] {
+  margin: 10px auto;
+  background: #eee;
+  border-radius: 4px;
+  padding: 6px 20px;
+  display: block;
+}
